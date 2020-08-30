@@ -217,6 +217,7 @@ class MyForm : Form
             pos.Add(newVertex, new Point(e.X - Radius, e.Y - Radius));
             check2 = true;
             selected = newVertex;
+            
         }
         else{
             foreach(KeyValuePair<int, Point> w in pos)

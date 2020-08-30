@@ -1,0 +1,11 @@
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\bin\Debug\netcoreapp3.1\Graph-Editor.exe
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\bin\Debug\netcoreapp3.1\Graph-Editor.deps.json
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\bin\Debug\netcoreapp3.1\Graph-Editor.runtimeconfig.json
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\bin\Debug\netcoreapp3.1\Graph-Editor.runtimeconfig.dev.json
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\bin\Debug\netcoreapp3.1\Graph-Editor.dll
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\bin\Debug\netcoreapp3.1\Graph-Editor.pdb
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\obj\Debug\netcoreapp3.1\Graph-Editor.csprojAssemblyReference.cache
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\obj\Debug\netcoreapp3.1\Graph-Editor.AssemblyInfoInputs.cache
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\obj\Debug\netcoreapp3.1\Graph-Editor.AssemblyInfo.cs
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\obj\Debug\netcoreapp3.1\Graph-Editor.dll
+C:\Users\azarl\Desktop\CU\1st Year\Programming2\Graph-Editor\obj\Debug\netcoreapp3.1\Graph-Editor.pdb
