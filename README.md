@@ -6,7 +6,7 @@ and edges. Also, it enables the user to move the graphs and dynamically change i
 
 ![Alt text](graph.jpg?raw=true "Optional Title")
 
-## Usage
+## Usage 
 
 The user can :
 
@@ -25,7 +25,7 @@ The graph editor also has menu section that has
 previously
 - Quit - Exit the application
 
-## Usage
+## Installation
 
 ```
 dotnet run
